@@ -1,0 +1,7 @@
+.vscode
+train/
+test/
+validation/
+*.feas
+*.feas_labels
+*.labels
